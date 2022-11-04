@@ -17,9 +17,8 @@ button {
   background-color: transparent;
   border-radius: 8px;
   border: 1px solid blueviolet;
-  padding: .8rem 1rem;
+  padding: .5rem;
   font-size: 1em;
-  font-weight: 600;
   font-family: inherit;
   cursor: pointer;
   transition: border-color 0.25s;
@@ -37,7 +36,6 @@ img {
 
 #app {
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  margin: auto;
   text-align: center;
 }
